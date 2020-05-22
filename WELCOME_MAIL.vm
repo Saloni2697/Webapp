@@ -1,0 +1,29 @@
+<html>
+<head></head>
+<body style="padding: 0; margin: 0;">
+    <table width="100%" cellpadding="0" cellspacing="0">
+        <tbody>
+            <tr><td align="center" style="background:#262a2d url('http://${domainName}/static/img/mailer_bg.png') repeat-x; padding:10px 0 12px 25px; border-bottom: 1px solid #8b959f;"><img src="http://${domainName}/static/images/icons/logo2.png" height="28" width="250"/></td></tr>
+            <tr>
+                <td style="padding:20px 0 12px 25px; font-size: 22px; font-family:Arial,Helvetica,sans-serif;">
+                <div style="font-size: 22px; margin:20px 0; color:#1e5d86;font-weight: bold;">Hi ${firstName} ${lastName}
+                 </div>
+                <div style="font-size: 15px; font-weight: bold; margin:20px 0;"><b>Welcome to 1018MB.</b>
+				<br/>Feel Free to create event for your favourite movie at a theater near you.
+				</div>
+				<br/>
+				<br/>
+				</div>
+                <div style="margin:20px 0;">Cheers! <br/>
+                Team 1018MB</div>
+            </td>
+            </tr>
+            <tr>
+                <td style="background-color: #000; text-align: center; color:#d2dadc; padding:15px; font-size: 12px; font-family:Arial,Helvetica,sans-serif;">If you ever have any trouble, questions or just want to say hello, you can write to us at 
+				<a href="mailto:1018mb.com" style="text-decoration: none;  color:#28c868;">
+				1018mb.com</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
